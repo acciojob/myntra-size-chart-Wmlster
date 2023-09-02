@@ -9,9 +9,22 @@ table{
 
 #heading{
 	text-align:left;
+	background-color:pink;
 }
 
 .right{
 	text-align:right;
+}
+
+#tr1{
+	background-color:yellow;
+}
+
+#tr2{
+	background-color:orange;
+}
+
+#tr3{
+	background-color:limegreen;
 }
 
